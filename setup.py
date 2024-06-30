@@ -10,7 +10,6 @@ setup(
         'idna==2.8',
         'oauthlib==3.0.0',
         'PySocks==1.6.8',
-        'requests==2.21.0',
         'requests-oauthlib==1.2.0',
         'six==1.12.0',
         'tweepy==3.7.0',
